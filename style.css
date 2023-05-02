@@ -1,0 +1,16 @@
+*{margin: 0;
+  padding:0;
+  box-sizing: border-box;}
+
+.container{ width: 90%;
+            height: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+             
+          }
+.sub_container{padding: 2%;
+}
+
+a {text-decoration: none;
+   }
